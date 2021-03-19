@@ -1,0 +1,24 @@
+{
+    "TITLE": "Lumen.js",
+    "DESCRIPTION": "Lumen.js is a framework for developing Javascript web applications, based on the 'web components' pattern, which is easy and simple to use. This is a template for a simple marketing or informational website. It includes a large callout called a jumbotron and three supporting pieces of content. Use it as a starting point to create something more unique.",
+    "THEME": "Theme",
+    "themes": {
+        "LIGHT": "Light",
+        "DARK": "Dark"
+    },
+    "LANGUAGE": "Language",
+    "tiles": {
+        "t01": {
+            "TITLE": "Fast",
+            "BODY": "Do what is needed when its needed!No more automatic, complex DOM refresh system. Update DOM only when its needed.You take full control of the DOM updates to make the app fast and responsive.Instantiate and remove components when it makes sense and avoid unwanted extra processing and redrawing"
+        },
+        "t02": {
+            "TITLE": "Lightweight",
+            "BODY": "Only need to include 'lumen.js' and 'lumen.css' and its done! This is good for small projects, optimizing your development speed with a simple project structure, taking advantage of 'vanilla' Javascript to make the development process even faster."
+        },
+        "t03": {
+            "TITLE": "Easy to Use",
+            "BODY": "It's a smooth transition from pure Javascript to Web Components. You use javascript directly to read and update the DOM, combined with the power of component based structure to reuse structured UI blocks. It is a very good way to learn the new software patterns that are the base of modern Javascript frameworks. Good for beginners and even better for advanced users who seek simplicity."
+        }
+    }
+}

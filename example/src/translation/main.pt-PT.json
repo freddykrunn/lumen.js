@@ -1,0 +1,24 @@
+{
+    "TITLE": "Lumen.js",
+    "DESCRIPTION": "Lumen.js é uma framework para desenvolvimento de aplicações web Javascript, baseada no padrão de 'web components', fácil e simples de usar. Esta é um examplo de uma aplicação para um site de marketing ou informativo simples. Inclui um grande texto explicativo chamado jumbotron e três peças de conteúdo de apoio. Use-o como ponto de partida para criar algo mais exclusivo.",
+    "THEME": "Tema",
+    "themes": {
+        "LIGHT": "Claro",
+        "DARK": "Escuro"
+    },
+    "LANGUAGE": "Linguagem",
+    "tiles": {
+        "t01": {
+            "TITLE": "Rápido",
+            "BODY": "Faça o que for necessário, quando for necessário! Chega de sistemas de atualização DOM complexos e automáticos. Atualize o DOM somente quando necessário. Você assume o controlo total das atualizações do DOM para tornar o aplicativo rápido e responsivo. Instâncie e remova componentes apenas quando fizer sentido e evite processamento/redesenho extra indesejado"
+        },
+        "t02": {
+            "TITLE": "Leve",
+            "BODY": "Só precisa de incluir 'lumen.js' e 'lumen.css', e pronto! Esta framework é boa para pequenos projetos, otimizando sua velocidade de desenvolvimento com uma estrutura de simples, utilizando o Javascript puro, para tornar o processo de desenvolvimento ainda mais rápido."
+        },
+        "t03": {
+            "TITLE": "Fácil de usar",
+            "BODY": "É uma transição suave do Javascript puro para os componentes da Web. Você usa javascript diretamente para ler e atualizar o DOM, combinado com o poder da estrutura baseada em componentes para reutilizar blocos de IU estruturados. É uma ótima forma de aprender os novos padrões de software que são a base das estruturas Javascript modernas. Bom para iniciantes e ainda melhor para usuários avançados que procuram simplicidade."
+        }
+    }
+}

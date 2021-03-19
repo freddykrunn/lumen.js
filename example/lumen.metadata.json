@@ -1,0 +1,11 @@
+{
+    "components": [
+        {"name": "Shell", "path": "components/shell"},
+        {"name": "InfoTile", "path": "components/info-tile"}
+    ],
+    "scripts": [
+    ],
+    "translations": [
+        {"name": "main", "path": "translation/main"}
+    ]
+}
